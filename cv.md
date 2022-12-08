@@ -9,12 +9,12 @@
 _07.22 - heute_ Frontend Entwickler Ausbildung bei LECTRUM (Kyiv,
 Ukraine) https://lectrum.io/uk/
 
-_06.20 - 01.21_ QA Trainee (PASV, USA) https://www.localcoding.us/
+_06.20 - 01.21_ QA Trainee (PASV Akademie, USA) https://www.localcoding.us/
 
 _01.20 - 06.20_ Quality Assurance/QA Engineer Bootcamp an der PASV
 Academy - Sunnyvale, California (USA) https://www.localcoding.us/
 
-##Abschluss in Deutschland
+## Abschluss in Deutschland
 
 _12.19 - 09.20_ Deutschsprachkurs auf C1-Niveau beim IB West gGmbH
 Waldbröl
